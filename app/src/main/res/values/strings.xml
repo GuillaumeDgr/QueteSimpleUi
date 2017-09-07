@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quete Simple UI</string>
+    <string name="Checkbox">Checkbox</string>
+    <string name="Prenom">Prenom</string>
+    <string name="Nom">Nom</string>
+    <string name="Valider">Valider</string>
+</resources>
